@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Abdulhakim from Zanzibar 🌴👋
 
-<!--
-**raxhid2007/raxhid2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | Building Fast Websites for Businesses**
 
-Here are some ideas to get you started:
+I help shops, hotels, and small businesses in Zanzibar & Tanzania get online with modern, fast websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do:
+- Landing Pages that convert visitors to customers
+- Hotel & Shop Websites
+- Restaurant & Menu Websites
+- Fixing & Redesigning old websites
+
+### 🛠️ Skills:
+`HTML` `CSS` `JavaScript` `Responsive Design` `GitHub`
+
+### 📫 Let's Work Together:
+- WhatsApp: [Click Here wa.me/255678804618](https://wa.me/255678804618)
+- Location: Zanzibar, Tanzania - Available Worldwide 🌍
+- Email: abdulhakimraxhid@gmail.com
+
+> "I don't just build websites, I build your online presence."
